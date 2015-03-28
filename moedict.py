@@ -90,7 +90,7 @@ def readdict(fn):
             link.append(l[2:].lstrip())
             state = 'l'
             continue
-        if l[0:2] == '- ':          # 阿美語例句
+        if l[0:2] == '- ':              # 阿美語例句
             ex[0] = l[2:]
             state = 'ea'
             continue
@@ -122,10 +122,11 @@ def readdict(fn):
 
 
 if __name__ == '__main__':
-    BASEDIR = './ok/'
+    BASEDIR = './txt/'
     for fn in os.listdir(BASEDIR):
         if re.match(r'^[0-9]+\.txt$', fn):
             readdict(BASEDIR + fn)
+        break                                       # 先做第一頁
     f = codecs.open('index.json', mode='w', encoding='utf8')
     f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
     f.close()
