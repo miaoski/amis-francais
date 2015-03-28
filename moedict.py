@@ -123,11 +123,8 @@ def readdict(fn):
 
 
 if __name__ == '__main__':
-    BASEDIR = './txt/'
-    for fn in os.listdir(BASEDIR):
-        if re.match(r'^[0-9]+\.txt$', fn):
-            readdict(BASEDIR + fn)
-        break                                       # 先做第一頁
+    for fn in sys.argv[1:]:
+        readdict(fn)
     f = codecs.open('index.json', mode='w', encoding='utf8')
     f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
     f.close()
