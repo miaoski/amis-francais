@@ -28,7 +28,7 @@ aag
 donner des cadeaux.
 
 aag - mapaaag 
-donner des cadeauxéchanger de cadeaux.
+donner des cadeaux; échanger de cadeaux.
 
 'a'ager - ma'a'ager = masager
 fixe.
