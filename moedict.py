@@ -87,7 +87,8 @@ def readdict(fn):
             state = 't'
             continue
         if l[0:2] == '=>':          # 相關詞
-            link.append(l[2:].lstrip())
+            syn = l[2:].lstrip().replace(', ', ',')
+            link = link + syn.split(',')
             state = 'l'
             continue
         if l[0:2] == '- ':              # 阿美語例句
