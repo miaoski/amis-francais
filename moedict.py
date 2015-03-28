@@ -123,8 +123,8 @@ def readdict(fn):
 
 
 if __name__ == '__main__':
-    for fn in sys.argv[1:]:
-        readdict(fn)
+    for i in range(1, 3):
+        readdict('./txt/%03d.txt' % i)
     f = codecs.open('index.json', mode='w', encoding='utf8')
     f.write(json.dumps(INDEX, indent=2, separators=(',', ':'), ensure_ascii = False))
     f.close()
