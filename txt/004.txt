@@ -1,31 +1,68 @@
-'adipel 4 afsa
+'adipel 
+haie
+clôture
+enceinte
+enclos
+- ma'adipelay a likot
+  enclos attenant à la maison.
 
-'adipel haie; clôture; enceinte; enclos : ma'adipelay a likot : enclos attenant à la maison.
-'adipig crête du coq.
+'adipig 
+crête du coq
 
-'adipitay - {S} bourgeon; pousse.
+'adipitay - {S} 
+bourgeon
+pousse
 
-adiponoc - {Z} = atiponoc fourmi piquante.
+adiponoc - {Z} = atiponoc 
+fourmi piquante
 
-'adlsaw — {S} souche de millet.
-'adit sale ; croûte de plaie ; taché {F}.
-'adlwat - mi'adiwat croiser; traverser.
+'adisaw - {S} 
+souche de millet
 
-'adiwat - {S} = 'adifat croisement; traverse.
+'adit 
+sale 
+croûte de plaie 
+taché {F}
 
-'adiwawa - {N} = wawa enfant.
+'adiwat - mi'adiwat 
+croiser
+traverser
 
-'adiyam ='adiam = damdam gingembre: racine de gingembre-kismray, daidam kacipa'ay,tayo,rakog kogay; piment: (capsicum annum) ; poivre épice. '
+'adiwat - {S} = 'adifat 
+croisement
+traverse
 
-'adiyoc = 'adiyos {S} tourbillon de sable; ouragan; vent violent.
+'adiwawa - {N} = wawa 
+enfant
 
-ado = 'do rat; biceps; mollet gonﬂé. '
+'adiyam = 'adiam = damdam 
+gingembre : racine de gingembre - kisraray, daidam, kacipa'ay, tayo, rakog kogay
+piment : (capsicum annum)
+poivre épicé
 
-'adop - mi'adop chasser.
+'adiyoc = 'adiyos {S} 
+tourbillon de sable
+ouragan
+vent violent
 
-'adteg = cica' jus de tabac {F}; sève: résine; gomme d'arbre; tabac; encens: fagsisay a'adteg.
+ado = 'do 
+rat
+biceps
+mollet gonflé
 
-adteg - {T} cérumen.
+'adop - mi'adop 
+chasser
+
+'adteg = cica' 
+jus de tabac {F}
+sève
+résine
+gomme d'arbre
+tabac
+encens : fagsisay a 'adteg.
+
+adteg - {T} 
+cérumen
 
 'adtom herbe: (mauvaise herbe à petits tubercules).
 
