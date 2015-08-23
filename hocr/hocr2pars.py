@@ -25,6 +25,8 @@ def canonical(t):
     t = t.replace('\u2014', '-') \
          .replace('\u2018', "'") \
          .replace(u'ﬁ', 'fi') \
+         .replace(u'ﬂ', 'fl') \
+         .replace(u'…', '...') \
          .replace(u'‘', "'") \
          .replace('\n', ' ')
     return t.strip()
