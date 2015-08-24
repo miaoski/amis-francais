@@ -40,7 +40,7 @@ for px in bs.find_all('p'):
     nim = im.crop(coords)
     nim.save('./%s/%s.jpg' % (page, pid))
     print '%d,%s,%s,%s' % (int(page), pid, title, canonical(txt))
-    cur.execute('INSERT INTO toufu VALUES (?, ?, ?, ?)', (int(page), pid, title, canonical(txt)))
+    cur.execute('INSERT INTO toufu VALUES (?, ?, ?, ?, 0)', (int(page), pid, title, canonical(txt)))
     conn.commit()
 
 cur.close()
