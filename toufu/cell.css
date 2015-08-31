@@ -1,6 +1,9 @@
 body {
     padding-top: 40px;
 }
+#unclear {
+    margin-bottom: 10px;
+}
 .submit,.no-content {
     margin-bottom: 10px;
 }
