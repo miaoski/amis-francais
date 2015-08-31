@@ -9,7 +9,6 @@ a:hover {
 }
 .tip {
     color: #bbb;
-    padding-left: 10px;
 }
 .manual {
     color: #333;
@@ -78,4 +77,23 @@ input#ans {
   margin-top: -140px;
   width: 100%;
   height: auto;
+}
+
+h4 {
+    color: #aaaaaa;
+    font-weight: normal;
+}
+
+.man {
+    background-color: #eeeeee;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+
+#ans {
+    width: 100%;
+}
+
+#manual-link {
+    margin-right: 200px;
 }
