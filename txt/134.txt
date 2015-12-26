@@ -1,118 +1,52 @@
-kihoway - {S} = Iihoway 134 kimoloay = kimolmol
-
-kihoway - {S} = Iihoway très large sur le côté ; très ample.
-
+[這是空白]
+kihoway - {S} = lihoway très large sur le côté; très ample.
 kihpic = kohpic mince.
-
-kika - mikika s'enregistrer: sel/aire enregistrer.
-
-kika - ni ikika recensement.
-
-kika - {J carte d'identité: registre de l'état civil.
-
-kikag - {TW} oiseau mâle (coq..).
-
-kikai - mikikai travailler à la machine. _
-
-kikai - {J} machine; mécanique; machina! (pro et ﬁg).
-
+kika - mikika s'enregistrer: se faire enregistrer.
+kika - nipikika recensement.
+kika - {J} carte d'identité: registre de l'état civil.
+kikag - {Tw} oiseau mâle (coq..).
+kikai - mikikai travailler à la machine.
+kikai - {J} machine; mécanique; machinal (pro et fig).
 kikaka supérieur à.
-
 kikay occasion; chance.
-
 kiki - mikiki {S} mimer.
-
-kiki - pikiki imitation: ainsi au cours des danses imiter le travail des champs ou autre.
-kikog - {J} mariage (cérémonie). r
-kikOi - {F} = wikol queue.
-
+[這是空白]
 kilac portion d'un tout.
-
 kilac - ci kilac avoir part à.
-
-kilac - mikiiac demander une portion.
-
+[這是空白]
 kilac - misakilac distribuer.
-
 kilac - pakilac partager; diviser et distribuer.
-
-kilag nom d'un arhre; r bois. '
-
+kilag nom d'un arbre;  bois.
 kilag - kilakilagan forêt.
-
-kilag — mikilag chercher du bois.
-
-kilag - misakilag travailler le hois; faire une charpente.
-kilag - misakilagay menuisier: charpentier.
-
-kilag - talakilag sorcellerie: pour entrer dans une nouvelle maison.
-kiii - {N} brume.
-
-ki I if évasif; faux-fuyant.
-
-kiiif - mikilif t0 sowal se taire.
-
-kiiif - misakilif cacher sa pensée.
-
-kiiif - nikilifan secret.
-
+kilag - mikilag chercher du bois.
+kilag - misakilag travailler le bois; faire une charpente.  kilag - misakilagay menuisier: charpentier.
+kilag - talakilag sorcellerie: pour entrer dans une nouvelle maison.  kili - {N) brume.
+kilif évasif; faux-fuyant.
+kilif - mikilif to sowal se taire.
+kilif - misakilif cacher sa pensée.
+kilif - nikilifan secret.
 kilikolitan - {N} bigarré.
-
 kilim recherche.
-
-kilim - kilimen ! cherchez !.
-
+kilim - kilimen! cherchez!.
 kilim - makilim avoir trouvé.
-
-kilim - mikilim chercher: mikiiim to malo lalan nira Io.‘ chercher une occasion. une opportunité.
-kilim - misakilikilim chercher minutieusement.
-
+kilim - mikilim chercher: mikilim to malo lalan nira to: chercher une occasion, une opportunité. kilim - misakilikilim chercher minutieusement.
 kilim - pasakilikilim faire chercher.
-
 kilmel — pakakilmel de toutes ses forces.
-
 kilmel - {N} = ki'mel force.
-
-kilol - {Z} = mikotod accompagner: mikilal t0 kamo: agisse: suivant les instructions.
-kilcma‘an fête des moissons .' nom a'e lafëte des moissons dans le sud." terme qui signiﬁe rester à la
-maison, ne pas travailler.
-
-'kim ar ent.
-
-'kim - ta a'kim or.
-
+kilol - {Z} = mikotod accompagner: mikilol to kamo: agissez suivant les instructions. kiloma'an fête des moissons: nom de la fête des moissons dans le sud: terme qui signifie rester à la maison, ne pas travailler.
+'kim argent.
+'kim - tada'kim or.
 kimad histoire; conférence; faire un discours, prendre la parole.
-
 kimad - makimaday = karakimad bon conteur: bavard.
-
-kimad - pakimad = paplo parler ;' discourir : prononcer un discours; donnerunc
-conférence; raconter une histoire.
-
-kimadac - {F} = rimadac lisse; glissant; coulant; facile; onctueux: Eph. 5/27.
-kimced = komced = kohced pleinement développé: grain, fruit, animal.
-
-ki'mel = ki'mer courageux: ki’mel kofaloco’nira: son coeur est valeureux; solide; ferme;
-fort (prop et ﬁg): ki’mel cigra a matayal.‘ il est endurant au travail.
-
+kimad - pakimad = paplo parler; discourir: prononcer un discours; donner une conférence; raconter une histoire.
+kimadac - {F} = rimadac lisse; glissant; coulant; facile; onetueux: Eph. 5/27. kimced = komced = kohced pleinement développé: grain, fruit, animal.
+ki'mel = ki'mer courageux: ki’mel ko faloc' nira: son coeur est valeureux; solide; ferme; fort (prop et fig): ki’mel cigra a matayal: il est endurant au travail.
 kimisay - cikimisay {J} fête des moissons.
-
-kimit - ccay kimit morceau de toron.
-
+kimit — ccay kimit morceau de toron.
 kimit - mikimit couper en morceaux.
-
-kimkim = mikiiim chercher.
-
-kimolmol = Iimo'od rond (en forme d'orange).
-
+kimkim = mikilim chercher.
+kimolmol = limo'od rond (en forme d'orange).
 kimolmol - nisakimolmolan faire une boule de riz; cercle.
-
 kimoloay = kimolmol rond.
-
- 
-
- 
-
- 
-
- 
-
+[這是空白]
+[這是空白]

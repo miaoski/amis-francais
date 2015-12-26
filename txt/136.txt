@@ -1,115 +1,52 @@
-kini = hakini 136 kisaw - malakisaw
-
+[這是空白]
 kini = hakini demander soi-même (question).
-
 kinian - {F} = konian ceci.
-
 kinig - cacikinig = cacitatodog ce qui convient.
-
-kinig - {Tw} commémorer.
-
+[圖片不清楚]
 kinih - makinih être partial.
-
 kinih - makinihay jugé injustement.
-
-kinih - makakinih différencier: malmkinih k0 pitlisfaire des dtﬁ’érences dans les dons.
-kll’lih — matokinih k0 rakat marche de travers.
-
+kinih - makakinih différencier: makakinih ko pitli: faire des différences dans les dons.  kinih - matokinih ko rakat marche de travers.
 kinih - mikinih mettre de côté.
-
 kinih - misakakinih favoriser quelqu'un: (injustement).
-
 kinom - {T} = mihinom calmer; consoler.
-
 kintol une espèce de bambou.
-
 kioli - {N} concombre.
-
-kipag = kipig tunique courte des Amis. .
-
+kipag = kipig tunique courte des Amis.
 kipat - mapakipat = cipat adhérer à un groupe; être admis dans.
-
-ki pat — mikipat coller à.
-
+kipat - mikipat coller à.
 kipat - pakipat coller.
-
-kipat - sakipat = sapakipat colle. , .
-kipig = kipag veste. k‘l’J‘S
-kira ﬁnale qui renforce une afﬁrmation ; exclamation de crainte; accord avec le point devue
-d'un autre: mqfana’ kako kira ." Je sais f.
-
-kira — kira 'Î wawa {N} exclamation: c'est cela. mon petit :‘.
-
-kirac = kilac distribuer: partager; maladie des yeux (?).
-
-kiradom toile : tissu; étoffe pour baluchon.
-
+[這是空白]
+kira - kira i wawa {N} exclamation: c'est cela, mon petit!.
+kirac = kilac distribuer; partager; maladie des yeux(?).
+kiradom toile ; tissu; étoffe pour baluchon.
 kirami = nikawrira mais.
-
-kiray millet .' variété de mil/et quifaisait une excellente bière.
-
+kiray millet: variété de millet qui faisait une excellente bière.
 kirdogay herbe à enfumer les moustiques.
-
-kirec dur: être fort: mûr.
-
+kirec dur; être fort; mûr.
 kired - mikired {N} amener.
-
-kiref - {N = mopno' fossette.
-
-kireg - { } = karaday parapluie en bambou.
-
+kiref - {N} = mopno' fossette.
+kireg - {F} = karaday parapluie en bambou.
 kiri' - {S} = kirikiri' chatouiller.
-
-kiric - makiric emporté: mnln'ric no nanom k0 pala: le champ a été emporté par I ’eau.
-kiric — mikiric traîner: entraîner; emporter au ﬁl de l‘eau .' mikric k0 nanom t0 sra.‘ I Jeau
-entraîne la terre.
-
+kiric - makiric emporté: makiric no nanom ko pala: le champ a été emporté par l'eau. kiric — mikiric traîner; entraîner; emporter au fil de l'eau: mikric ko nanom to sra: l'eau entraîne la terre.
 kirig = kireg parapluie en bambou.
-
 kirig - pakirig traîner quelqu'un , quelque chose.
-
-kirikiri' chatouiller sous les bras .' kit‘ikiri’kina si 'nmt': cefraid chatouille (pince).
-
-kirikiri‘ - kakirikiri'an aisselle.
-
+kirikiri' chatouiller sous les bras: kirikiri’ kina si’naw: ce froid chatouille (pince).
+kirikiri' - kakirikiri'an aisselle.
 kirikiri' - pakirikiri' sorcellerie pour grand malade.
-
 kiriw arbre (bois de menuiserie).
-
 kirkir démangeaison.
-
 kirkir - mikirkir se gratter.
-
 kiro poisson ou légume fermenté au soleil.
-
-kiroﬁm' chérubin; ange.
-
-kironos poutrelle en long de la maison.
-
-kirti' - misakirti' forger. '
-
+kirofim' chérubin; ange.
+[這是空白]
+kirti' - misakirti' forger.
 kis - mikis {Ang.} embrasser {N}.
-
 kisa = kakisaan corbeille.
-
 kisagsag - mikisagsag prendre le frais.
-
 kisakid - makisakid = lisalid frottement d'habits sur des plaies.
-
 kisakid - mikisakid se frotter contre quelqu'un.
-
 kisakis = kisakid se frotter.
-
 kisakit - mikisakit {N} toucher légèrement.
-
 kisaw reproche; sans-intérêt ; sans-résultat.
-
-kisaw - malakisaw sans—résultat: se dit de quelqu’un qui s’absente toujours . ” n’arip k0
-Tapag t0 ’adigo no matayalay, miti’eray cigranan, caay kalakisaw . " Le Seigneur me ète I ’ame de ses
-serviteurs; qui s’abrite en Lui n'expiera point. - "Aka ka moraraw, aka kisaw " ] Tim. 6/14 (garde le
-commandement) sans tache et sans reproche.
-
- 
-
- 
-
+kisaw - malakisaw sans-résultat: se dit de quelqu'un qui s'absente toujours. "pa'orip ko Tapag to 'adigo no matayalay, miti'eray cigranan, caay kalakisaw. " Le Seigneur rachète l'ame de ses  serviteurs; qui s'abrite en Lui n'expiera point. - "Aka ka moraraw, aka kisaw ” l Tim. 6/14 (garde le commandement) sans tache et sans reproche.
+[這是空白]

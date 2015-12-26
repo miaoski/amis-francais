@@ -1,106 +1,38 @@
-ﬁ - {5} = IOPa 71 ﬁkaw --;{S _= fkaw
-
-ﬁ - {S} = lopa âne. .
-
-ﬁar - maﬁar = ﬁyal ankylosé : être fatigué de rester immobile.
-
-ﬁcacido libellule.
-
-ﬁcadic - miﬁcadic = ﬁcﬁc arracher; prendre de force.
-
-ﬁcig = ﬁcin mesure de contenance: on peut aussi utiliser le "dofata" ou le "fakar".
-ﬁcikan - {S} riz sec. ‘ K, ;
-ﬁckot spasme; crampe; convulsions. . Ficing’ ‘
-ﬁckot - maﬁckot avoir des crampes. , '
-ﬁckot - paﬁckot secouer violemment: "Paﬁckor han noya kaacekan a ’adigo kaya tamda'w" Ma
-J .26 L’esprit impur le secoui1 violemment.
-
-ﬁclik - maﬁclik = clik = ﬁtlik crépiter.
-
-'ﬁd - mi'ﬁd {S} trinquer; boire ensemble un verre de vin.
-
-ﬁdac coquillage: odo’naﬁdac : perle.
-
-ﬁdag section; uarﬁer.. (d'orange, de pamplemousse ..).
-
-ﬁdag - maﬁdag ïF} faux-prétexte.
-
-ﬁdag - {N} = 'osi repousser; haïr ; rejeter.
-
-ﬁdagan - sakaﬁdagan {N} détestable; embêtant.
-
-ﬁ'dak - {S} = f'dak écorcher.
-
-ﬁda'og = og-a-og se débattre sous les coups de fouet; hocher la tête.
-
-ﬁdaol melon; concombre: cucumis sativus.
-
-ﬁda'olaw nom d' arbre: kamaya’ .7. '
-
-ﬁdas = fodas gercure; peau meurtrie par le froid.
-
-ﬁdasen - S} cerf bigarré: taches deﬂeurs.
-
-ﬁdatek - } = fadatek mesures ami-typhon.
-
-ﬁdﬁd - caay ka ﬁdﬁd opinion inchangée .' - ne pas changer d'opinio .
-
-ﬁdgal = fahdil arbre à laque; cèdre; sapin. - p  '
-ﬁdic une petite part: un tiers ou moins ; quartier.. (d'orange, de pamplemousse ..); tranche
-de viande, de poisson. ‘ ,
-ﬁdic - maﬁdic quasi achevé: presqu’achevé (maﬁdic k0 tatayalen); à: côté :maﬁdickopiplah
-t0 kasqi‘: taper à côte en fendant du bois; manquer.
-
-'fi'e - {S} = 'ﬁ' fatigué.
-
-ﬁgcen - {N} support pour tatami. .
-
-ﬁgcog - mipaﬁgcog = mikacaway garder; surveiller.
-
-ﬁgtag = migta cuvette.
-
-ﬁhahak = foha ak levain; ferment; levure .' Mat. 13/33.
-
-ﬁhahak - maﬁhahak fermenter.
-
-ﬁhcaco - miﬁhcaco faire de la barre-ﬁxe.
-
-ﬁher - (ﬁhel) = kaliti roue de voiture. _ _ g ‘
-
-ﬁllﬁh = fahfah rejeter ; agiter; brandir: ﬁhﬁhen nira ko riko’ iso: il brandit tan vêtement;
-agiter. ,
-
-ﬁhid landes du cou ; inﬂammation des glandes. . _.. ÿ 
-ﬁhid -{ }= paci'eg joue. , _ "çäfî‘x;\
-ﬁhkac - sa iﬁhkac ﬁlet pour prendre des oiseaux. ‘ 5 Ë
-ﬁhkac - {N = talakal collet; piège.
-
-ﬁhkad — miﬁhkad éS} pister: suivre le gibierà la trace.
-ﬁhkat - miﬁhkat{ } = dohkit sceller; cacheter.
-ﬁhkod - taﬁhkod {F} = tahaﬁhkod s‘entraver.
-
-ﬁho colère. ‘ .
-
-ﬁhO - karaﬁho colércux.
-
-ﬁho — maﬁho être en colère. _
-ﬁhon - miﬁhon se farder; se maquiller. I» ﬂhkac
-
-ﬁhon — W} = cipoh fard : sapiﬁhon; farine.
-
-ﬁhowa — miﬁhowad {T} = howad gêner; soulever par le côté. .
-
-ﬁ'ik joue .' "Pahter han ako toﬁ’ik k0 mitoﬁﬁcay to gisgis ako" Is 50.6 J’ai tendu les joues à ceux qui
-m’arrachaient la barbe.
-
-ﬁ'ik - ciﬁ'ik , karaﬁ'ik joufﬂu.
-
-ﬁkakot -— maﬁkakot inerte par paralysie; recourbé: "Sa mo'celen k0 maﬁkakotay a kamay”
-Rends-moi droite ma main paralysée. ‘
-
-ﬁkaw — {S} = fkaw courber un bambou.
-
-    
-
- 
-
+[這是空白]
+fi - {S} = lopa âne. fiar - mafiar = fiyal ankylosé : être fatigué de rester immobile.  ficacido libellule.
+ficadic - mificadic = ficfic arracher; prendre de force.  ficig = ficin mesure de contenance: on peut aussi utiliser le "dofata" ou le "fakar".  ficikan - {S} riz sec.
+fickot spasme; crampe; convulsions. fickot - mafickot avoir des crampes. fickot - pafickot secouer violemment: "Pafickot han noya kaacekan a ’adigo koya tamdaw" Mol.26 L'esprit impur Ie secoua violemment. ficlik - maficlik = clik = fitlik crépiter.
+'fid - mi'fid {S} trinquer; boire ensemble un verre de vin.
+fidac coquillage: odo' no fidac : perle.
+fidag section; quartier.. (d'orange, de pamplemousse ..).
+fidag section ; quartier.. (d'orange, fidag - mafidag {F} faux-prétexte.
+fidag - {N} = 'osi repousser; haïr ; rejeter.
+fidagan - sakafidagan {N} détestable; embêtant.
+fi'dak - {S} = f'dak écorcher.
+fida'og = og-a-og se débattre sous les coups de fouet; hocher la tête.
+fidaol melon; concombre: cucumis sativus.
+fida'oIaw nom d’arbre: kamaya’ ?.
+fidas = fodas gercure; peau meurtrie par le froid.
+fidasen - {S} cerf bigarré: taches de fleurs.
+fidatek -{T} = fadatek mesures anti-typhon.
+fidfid - caay ka fidfid opinion inchangée: - ne pas changer d'opinion.
+fidgal = fahdil arbre à laque; cèdre; sapin. fidic une petite part: un tiers ou moins; quartier.. (d'orange, de pamplemousse..); tranche de viande, de poisson. fidic - mafidic quasi achevé: presqu'achevé (mafidic ko tatayalen); à- côté: mafidic ko piplah to kasoy: taper à côte en fendant du bois; manquer.
+'fi'e - {S} = 'fi' fatigué.
+figcen - {N} support pour tatami.
+figcog - mipafigcog = mikacaway garder; surveiller.
+figtag = migtag cuvette.
+fihahak = fohahak levain; ferment; levure: Mat. 13/33.
+fihahak — mafihahak fermenter.
+fihcaco - mifihcaco faire de la barre-fixe.
+fiher - (fihel) = kaliti roue de voiture. fihfih = fahfah rejeter; agiter; brandir: fihfihen nira ko riko' iso: il brandit ton vêtement; agiter.
+fihid glandes du cou ; inflammation des glandes.
+fikaw = {S} = fkaw
+fihid - {N} = paci'eg joue.  fihkac - sapifihkac filet pour prendre des oiseaux.  fihkac - {N} = talakal collet; piège.  fihkad - mifihkad {S} pister: suivre le gibier à la trace.  fihkat - mifihkat {S} = dohkit sceller; cacheter.  fihkod - tafihkod {F} = tahafihkod s'entraver.  fiho colère.
+fiho - karafiho coléreux.  fiho - mafiho être en colère. fihon - mifihon se farder; se maquiller.
+fihon - {Tw} = cipoh fard : sapifihon; farine.
+fihowad - mifihowad {T} = howad gêner; soulever par le côté.
+fi'ik joue : "Pahter han ako to fi'ik ko mitofificay to gisgis ako" Is 50.6 J'ai tendu les joues à ceux qui  m'arrachaient Ia barbe.
+fi'ik - cifi'ik , karafi'ik  joufflu.
+fikakot - mafikakot inerte par paralysie; recourbé: "Sa mo'celen ko mafikakotay a kamay"  Rends-moi droite ma main paralysée.
+fikaw - {S} = fkaw courber un bambou.
+[這是空白]

@@ -1,116 +1,51 @@
-hawag = 'awas 96
-
-hawag = 'awas enjambée , pas.
-
+[這是空白]
+hawag = 'awas enjambée, pas.
 hawag - mahawag = makihaor avoir les jambes arquées.
-
-hawag — mihawag enjamber; asser ar dessus.
-
-hawak - milihawak , malihawa , pa ihawak mettre en faisceau.
-hawak to oo' — milihawak to oo' = mihawa' to waay écarter les jambes.
-hawan = fonos couteau: grand coutelas.
-hawar = hawag enjamher.
-
+hawag - mihawag enjamber; passer par dessus.
+hawak - milihawak , malihawak , palihawak mettre en faisceau.
+hawak to oo' - milihawak to oo' = mihawa' to waay écarter les jambes.  hawan = fonos couteau: grand coutelas.
+hawar = hawag enjamber.
 hawatid = hiwatid séparer.
-
-hawhaw silencieusement; sans-bruit; à uni-voix.
+hawhaw silencieusement; sans-bruit; à mi-voix.
 hawhaw - mahawhaw être éventé (vin, remèdes ..) ; ramollir {N}.
-
-haw'naw - mihawhaw chuchoter.
-
+hawhaw - mihawhaw chuchoter.
 hawikid — mahawikid être avec.
-
 hawikid - mihawikid accompagner; conduire; diriger.
-
-hawikid — pahawikid conﬁer quelque chose (un paquet) à emporter.
-
-hawikidan - nihawikidan emporté avec soi; porté sur soi.
-
-hawkid — mihawkid {S} tirer de l'eau.
-
-hawsiyaw - {Ch} = poghog = kaniw = magah = safoli' menteur; bluffeur.
-
-hay i wawa - {F} c'est comme cela.
-
-hayda — mihayda permettre; autoriser ; consentir: Havdaen ho: c’est encore permis l.
-hayhay = mi afali faire sécher.
-
-hayken = ha eno ignorer .' ne pas Connaître.
-
-hayom — mamihayom le tentateur.
-
-hayom - mihayom tenter quelqu'un , quelque chose.
-
-hayom - sapihayom objet de la tentation.
-
+hawikid - pahawikid confier quelque chose (un paquet) à emporter. hawikidan - nihawikidan emporté avec soi; porté sur soi.
+hawkid - mihawkid {S} tirer de l'eau.
+hawsiyaw - {Ch} = poghog = kaniw = magah = safoli' menteur; bluffeur.  hay i wawa - {F} c'est comme cela.
+hayda - mihayda permettre; autoriser; consentir: Haydaen ho: c'est encore permis!. hayhay = mipafali faire sécher.
+hayken = hakeno ignorer : ne pas connaître.
+hayom - mamihayom le tentateur.
+hayom - mihayom tenter quelqu'un, quelque chose.
+hayom — sapihayom objet de la tentation.
 hca = haca de plus; encore.
-
-hcad = malcad areil; identique; équivalent.
-
-hcaglay = macag ay manquer. _
-
-hcek pi uet; colonne médiane d‘une maison; poteau.
-
-hcek - pa cek ﬁcher en terre; enfoncer un piquet en terre; fonder.
-
-hcep - mahcep= mahicep être imprégné.
-
+hcad = malcad pareil ; identique ; équivalent.
+hcaglay = macaglay manquer.
+hcek piquet; colonne médiane d'une maison; poteau.
+hcek - pacek ficher en terre; enfoncer un piquet en terre; fonder.
+hcep — mahcep= mahicep être imprégné.
 hci fruit; chair; résultat.
-
-hci - awaay ko lalahci impossible.
-
-hci - cihci fructiﬁer , avoir des fruits .' Adihay k0 hci no pan .' beaucoup de grains, d’où une
-bonne récolte de ri: - Ci hciay k0 dmak nira.‘ son travail porte desjzlim.
-
-hci — ira k0 lalahci possible : awaay k0 lalahci: impossible.
-
-hci - malahci devenir fruit; réalisé; se réaliser; être terminé: malahciay k0 dmak ako: mon
-travail est terminé.
-
-hCÎ - masahci dire clairement.
-
-hci - milahci réaliser; compléter; ﬁnir.
-
+hci - awaay ko Ialahci impossible.
+hci - cihci fructifier, avoir des fruits: Adihay ko hci no panay: beaucoup de grains, d'où une  bonne récolte de riz - Ci hciay ko dmak nira: son travail porte des fruits.
+hci - ira ko lalahci possible : awaay ko Ialahci: impossible.
+hci - malahci devenir fruit; réalisé; se réaliser; être terminé: malahciay ko dmak ako: mon  travail est terminé.
+hci - masahci dire clairement.
+hci - milahci réaliser; compléter; finir.
 hci - palahci rendre fructueux; faire se réaliser.
-
 hcian - kacihcian saison des fruits.
-
 hcien - pahcien ko sowal parler clairement.
-
 hcinar = mahacinar s'asseoir par terre.
-
-hcok - mîhcok bêcher.
-
+hcok - mihcok bêcher.
 hcra = hicra descendre.
-
-hdahel - mihdahel manoeuvrer pour inﬂuencer les gens.
-
-hdal - mi hdal {N} = mitdal délier; déboutonner; absoudre; enlever le joug {S};
-découdre {T}. -
-
-hda‘l'ay - pahdalay {N} = lalenay plat, égal; pareil.
-
+[這是空白]
+hdahel - mihdahel manoeuvrer pour influencer les gens.
+hdal - mi hdal {N} = mitdal délier; déboutonner; absoudre; enlever le joug {S} ;  découdre {T}.   hdalay - pahdalay {N} = Ialenay plat, égal; pareil.
 hdet - mihdet = mihdot aspirer (air, eau).
-
-hdog - mahdog = matahpo être couvert pour protéger; étouffé par la paille {N}.
-hdog' - mihdog couvrir (plants); protéger .‘ "Pa’oripay a T apag hdogen ho kami" Ps 89/17 Que
-la douceur du Seigneur soit sur nous.
-
+hdog - mahdog = matahpo être couvert pour protéger; étouffé par la paille {N}.  hdog - mihdog couvrir (plants); protéger: ”Pa’oripay a Tapag hdogen ho kami" Ps 89/17 Que la douceur du Seigneur soit sur nous.
 hdok - mihdok {S} passer par.
-
-hdot — mihdot t0 diget reniﬂer la morve.
-
-hegheg fracas; bruit violent: hegheg no n'yar: mer déchaînée.
-
-hei l oui ! : hei entre deux propositions semble conj. ﬁnaIe.
-
+hdot - mihdot to diget renifler la morve.
+hegheg fracas; bruit violent: hegheg no riyar: mer déchaïnée.
+hei ! oui!: hei entre deux propositions semble conj. finale.
 hei - hei haw 'i pourtant; cependant.
-
-hei - hei saw i vraiment !.
-
-hei - hei saw !
-
-. ..wmmm.
-
- 
-
+hei - hei saw! vraiment !.

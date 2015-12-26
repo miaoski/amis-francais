@@ -1,17 +1,17 @@
 a
-futur: la particule "a" placée devant un verbe marque le futur
+futur : la particule "a" placée devant un verbe marque le futur
 - A ma'orad ano dafak.
   il pleuvra demain.
 - A komaen kako.
   je vais manger.
 - Tayra kako a misalama.
   j'irai (je vais) m'amuser.
-être: particule de liaison entre un adjectif en ay et un nom
+être : particule de liaison entre un adjectif en ay et un nom
 - O fagcalay a tamdaw konian.
   C'est un brave homme.
 - O ga'ayay a holo'.
   le riz est bon.
-et: particule de liaison entre deux noms
+et : particule de liaison entre deux noms
 - Potawan a ci Parih.
   Potawan et Parih.
 pour; à
@@ -19,10 +19,10 @@ pour; à
   aide la à chercher les buffles.
 
 'a'ad = 'ad'ad = wadwad 
-étaler: (pour faire sécher)
+étaler : (pour faire sécher)
 
 'a'adopen 
-gibier; bête sauvage: qu'on peut chasser.
+gibier; bête sauvage : qu'on peut chasser.
 
 aag 
 donner des cadeaux.
@@ -37,7 +37,7 @@ fixe.
 occasion.
 
 'a'am 
-bouillie claire de riz: eau de riz.
+bouillie claire de riz : eau de riz.
 
 miki'a'am 
 mendier.
@@ -58,23 +58,22 @@ aat - miaat = miaet
 marquer d'un signe.
 
 aaw = a'aw
-hanneton gris; scarabée: noir et blanc à longues antennes
+hanneton gris; scarabée : noir et blanc à longues antennes
 personnage légendaire
 
 aayad 
 fourmi blanche; termite.
 
 a'ayaw 
-au devant de; en présence de; appeler: (par le nom) {Z}.
+au devant de; en présence de; appeler : (par le nom) {Z}.
 
 aca
-encore: ou bien
+encore : ou bien
 - maro' itini aca, itira aca.
-  s'asseoir ici ou là, c'est pareil.
-il n'y a qu'à avoir
+  s'asseoir ici ou là, c'est pareil; il n'y a qu'à avoir
 
 'aca 
-prix; mérite: pour les saints
+prix; mérite : pour les saints
 
 'aca - mi'aca 
 acheter
@@ -83,7 +82,7 @@ acheter
 vendre (faire du commerce)
 
 'aca - pi'acaan = kalali'acan 
-marché: (halle)
+marché : (halle)
 
 'aca - pili'acaay = kalali'acaay 
 payeur
@@ -105,16 +104,16 @@ acak - maacak {Z}
 être à sec
 
 'acam = 'alcam 
-roseau: (utilisé pour les cloisons des maisons et comme bois de chauffage = ferini (phaseolus radium)
+roseau : (utilisé pour les cloisons des maisons et comme bois de chauffage = ferini (phaseolus radium)
 
 acaram = axaram = aharam 
-mûrier: (morus alba)
+mûrier : (morus alba)
 
 'acaw - mi'acaw 
-puiser: aller chercher de l'eau.
+puiser : aller chercher de l'eau.
 
 'acaw {S} 
-herbe; gendre: gendre ou belle fille allant habiter chez le conjoint.
+herbe; gendre : gendre ou belle fille allant habiter chez le conjoint.
 => kadafo
 
 acawa {Z}

@@ -3,7 +3,7 @@ nom d'un bambou.
 
 adawa 
 arbre à laque
-arbuste: qui pousse dans le lit desséché d'une rivière.
+arbuste : qui pousse dans le lit desséché d'une rivière.
 
 'adawag 
 passage
@@ -12,10 +12,10 @@ maison commune
 
 'adawag - misa'adawag 
 vallée
-faire une entrée: deux arbres qui font l'entrée
+faire une entrée : deux arbres qui font l'entrée
 
 adawas - {S} = adawa 
-nom d'un arbre: dont l'écorce est utilisée pour faire des vêtements
+nom d'un arbre : dont l'écorce est utilisée pour faire des vêtements
 
 adawis
 perche
@@ -23,7 +23,7 @@ gaule de bambou
 
 adawis - paadawis 
 prendre
-saisir: le cikawasay saisit l'âme
+saisir : le cikawasay saisit l'âme
 attraper avec une perche
 
 adayay 
@@ -43,7 +43,7 @@ dur (fig)
   ton coeur est aussi dur qu'une pierre.
 
 adci -{N} = dahci 
-pousses: (de "folo")
+pousses : (de "folo")
 
 adef = 'def 
 fermeture...
@@ -62,17 +62,17 @@ herbe amère
 laiteron
 
 adep - miadep 
-attacher: attacher le chaume avec du rotin
+attacher : attacher le chaume avec du rotin
 
 'adepet — ma'adepet = idepet {S} 
 avare
-pingre: garder son avis personnel sans partager
+pingre : garder son avis personnel sans partager
 
 adepox 
 chélidoine
 
 adeses 
-cris: (petits cris)
+cris : (petits cris)
 pleurnichements d'un bébé
 - awaay ko adeses 
   silence total
@@ -110,7 +110,7 @@ adidiw - {N} = tadanca
 sans force
 
 'Adif
-Shan Min village: Hualien hsien, Feng Lin chen.
+Shan Min village : Hualien hsien, Feng Lin chen.
 
 'adif 
 clôture temporaire
@@ -160,7 +160,7 @@ voile
 cache
 
 'adigal 
-brillant: très brillant comme un bois poli ou une peau claire
+brillant : très brillant comme un bois poli ou une peau claire
 
 'adigal - mi'adigal 
 se laver les cheveux
@@ -192,7 +192,7 @@ adima - {T}
 brique
 
 'adimaceg - {S} = rao' 
-savonnier: (arbre) - noisette d'un arbre dont les Amis se servent comme savon.
+savonnier : (arbre) - noisette d'un arbre dont les Amis se servent comme savon.
 
 adimel 
 émonder : traiter les arbres (la vigne)
