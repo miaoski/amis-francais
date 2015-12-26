@@ -25,41 +25,13 @@
 <body>
 <div class="container">
     <h3>阿美語-法語字典OCR校對</h3>
-    <h4>目前戰況：一校</span>
-    <h4>進度：</h4>
-    <div class="progress">
-      <div class="bar" style="width: 80%;"></div>
-      <span id="progress_text"></span>
-    </div>
+    <h4>目前戰況：後製處理中...</span>
     <div class="man">
       <p>
-        參戰說明：<br />
-        請照著圖片顯示之文句輸入框框內<br />
-        當圖片顯示的內容為空白、頁碼、索引、手寫等狀況時，請選擇「這是空白」的按鈕<br />
-        手寫的字體不要打呦，謝謝。
+感謝各位鄉民參戰，請改到 <a href="/~ljm/amis-mp/">潘世光神父 阿美語-漢語辭典</a> 繼續努力~
       </p>
-      <p>
       <span id="manual-link"><a href="https://g0v.hackpad.com/ep/pad/static/0dhleAxPa9c">詳細說明書請按我</a></span>
-      <span>特殊符號參考：&nbsp;&nbsp;&nbsp;&nbsp;é &nbsp; è &nbsp; ç &nbsp; à &nbsp; â &nbsp; ê &nbsp; î &nbsp; ô &nbsp; û &nbsp; ä &nbsp; ë &nbsp; ï &nbsp; ö &nbsp; ü</span>
     </div>
-    <div width="100%">
-      <input id="ans" class="form-control ans" type="text" name="ans" tabindex="1" placeholder="在此輸入"/>
-    </div>
-    <button id="submit" class="btn btn-primary submit" tabindex="2">　送出　</button>
-    <button id="no-content" class="btn no-content btn-danger" tabindex="3">這是空白</button>
-    <button id="unclear" class="btn btn-warning unclear" tabindex="-1" style="display: none;">圖片不清楚</button>
-    <input id="ans-shadow" class="form-control ans-shadow" type="text" readonly="true" tabindex="-1" style="display: none"/>
-    <div class="tip">神乎其技的快速鍵參考： Enter: 送出 / shift+Enter: 這是空白 / ctrl+Enter: 這答案沒錯</div>
-
-    <h3>校對圖</h3>
-    <div>
-        <span class="cell-info"></span>
-        <button id="confirm" class="btn btn-success confirm" tabindex="5566" style="display: none; margin-left: 43%">這答案沒錯</button>
-    </div>
-    <div class="cell-image"></div>
-
-</div>
-<script src="cell.js"></script>
 <link rel="stylesheet" href="cell.css">
 </body>
 </html>

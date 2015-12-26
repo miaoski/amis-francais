@@ -23,7 +23,7 @@ $stmt->execute($v);
 get_progress($pdo);
 
 function get_progress($pdo) {
-  $st = $pdo->prepare("SELECT COUNT(1) FROM toufu WHERE cnt < 5");
+  $st = $pdo->prepare("SELECT COUNT(1) FROM toufu WHERE cnt < 3");
   $st->execute();
   $row = $st->fetch();
   if($row) {

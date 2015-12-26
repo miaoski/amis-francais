@@ -4,7 +4,7 @@ $pdo = new PDO("sqlite:toufu.sq3");
 
 
 $rets = array();
-$st = $pdo->prepare("SELECT * FROM toufu WHERE cnt < 5 LIMIT 1000");
+$st = $pdo->prepare("SELECT * FROM toufu WHERE cnt < 3 LIMIT 1000");
 $st->execute();
 $rows = $st->fetchAll(PDO::FETCH_ASSOC);
 shuffle($rows);
